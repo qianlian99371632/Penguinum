@@ -1,0 +1,2 @@
+# Penguinum
+Simple puzzle.
